@@ -1,0 +1,12 @@
+DevOps Learning Project: Git and GitHub Practice
+
+This project is about learning version control using Git and GitHub. The goal was to understand how to manage code changes, collaborate on projects, and follow DevOps practices as part of the Software Development Lifecycle (SDLC).
+
+Here’s what I did:
+
+1. I set up a local Git repository on my computer and created a README file to describe the project.
+2. I made a new repository on GitHub, linked it to my local repository, and pushed my commits to GitHub.
+3. I practiced branching by creating a new branch called "dev" made changes to the dev, and then merged it back into the main branch.
+4. I used pull requests to document my changes, making sure to write clear messages about what I changed and why.
+
+This project helped me learn how to use Git commands like commit, branch, merge, and push. It also taught me how to organize a repository and work with remote repositories on GitHub. I enjoyed exploring these tools and feel more confident using version control for future projects.
